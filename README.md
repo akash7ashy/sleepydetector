@@ -7,8 +7,17 @@ The project includes direct working with the 68 facial landmark detector and als
 
 ## Project Description
 This project aims to detect driver drowsiness in real-time using computer vision techniques. It can be used to alert drivers who are drowsy while driving, thereby helping to prevent accidents caused by drowsy driving.
-
+The working of the project
+As you can see the above screenshot where the landmarks aredetected using the detector.
+Now we are taking the ratio which is described as 'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'.
+Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.
 ## Getting Started
+![image](https://github.com/akash7ashy/sleepydetector/assets/131885338/049a51a1-5fe7-4ec1-b123-1ca3b998d509)
+![image](https://github.com/akash7ashy/sleepydetector/assets/131885338/36ab4895-7cf0-496e-b097-4cce9f4a80cd)
+![image](https://github.com/akash7ashy/sleepydetector/assets/131885338/03fd0896-b4fe-4a73-ab5e-2d7568a37329)
+
+
+
 
 ### Prerequisites
 - Python 3.7 or later
@@ -27,8 +36,7 @@ Run the main script: `python driver_drowsiness_detection.py`
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-MIT
+
 ##demo of the project
 https://drive.google.com/file/d/1nwKDMCwhsro8TBGQPQXx8Bin_gg1tc9F/view?usp=drive_link
 
