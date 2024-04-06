@@ -24,3 +24,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 MIT
+##demo of the project
+https://drive.google.com/file/d/1nwKDMCwhsro8TBGQPQXx8Bin_gg1tc9F/view?usp=drive_link
+
